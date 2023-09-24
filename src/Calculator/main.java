@@ -16,7 +16,6 @@ public class main {
 
         System.out.println("Yapmak istediğiniz işlemi seçiniz: ");
         System.out.println("1- Toplama\n2- Çıkarma\n3- Çarpma\n4- Bölme");
-
         n =sc.nextInt();
 
         switch (n) {
