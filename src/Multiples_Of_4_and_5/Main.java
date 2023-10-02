@@ -1,4 +1,4 @@
-package loops;
+package Multiples_Of_4_and_5;
 import java.util.Scanner;
 
 public class Main {
